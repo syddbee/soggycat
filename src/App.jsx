@@ -4,21 +4,22 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="flametext.gif" className="App-text" alt="flametext" />
+        <img src="soggycat.webp" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Soggy Cat <span className="heart">♥️</span> 
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          we love soggy cat
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://sydbee.github.io/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Back To Main Page
           </a>
         </p>
       </header>
